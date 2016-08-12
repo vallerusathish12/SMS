@@ -55,6 +55,7 @@ public void String(){
     int i = 0;
     i = i++;
     i=i+2;
+    i=i+3;
 }
 }
 
