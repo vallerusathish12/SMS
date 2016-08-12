@@ -51,6 +51,9 @@ SENDSMS();
         }
     }
 
-
+public void String(){
+    int i;
+    i=i+1;
+}
 }
 
